@@ -1,59 +1,47 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Assignment_1
 {
-    public class Address
+    class Address
     {
-        public string roadNo;
-        public string houseNo;
-        public string city;
-        public string country;
+        private string roadNo;
+        private string houseNo;
+        private string city;
+        private string country;
 
-        public void SetRoadNo(string R)
+        public Address(string roadNo, string houseNo, string city, string country)
         {
-            this.roadNo = R;
+            this.roadNo = roadNo;
+            this.houseNo = houseNo;
+            this.city = city;
+            this.country = country;
+        }
+        public string RoadNo
+        {
+            set { this.roadNo = value; }
+            get { return this.roadNo; }
+        }
+        public string HouseNo
+        {
+            set { this.houseNo = value; }
+            get { return this.houseNo; }
+        }
+        public string City
+        {
+            set { this.city = value; }
+            get { return this.city; }
+        }
+        public string Country
+        {
+            set { this.country = value; }
+            get { return this.country; }
         }
 
-        public void SetHouseNO(string H)
+        public string GetAddress()
         {
-            this.houseNo = H;
-        }
-        public void SetCity(string C)
-        {
-            this.city = C;
-        }
-        public void SetCountry(string Cn)
-        {
-            this.country = Cn;
-        }
-        public string GetRoadNo()
-        {
-            return this.roadNo;
-        }
-        public string GetHouseNo()
-        {
-            return this.houseNo;
-        }
-        public string GetCity()
-        {
-            return this.city;
-
-        }
-        public string GetCountry()
-        {
-            return this.country;
-        }
-        public void display()
-        {
-            System.Console.WriteLine("Road No: " + this.GetRoadNo());
-            System.Console.WriteLine("House No: " + this.GetHouseNo());
-            System.Console.WriteLine("Country : " + this.GetCountry());
-            System.Console.WriteLine("City : " + this.GetCity());
-
+            return ("\nRoad No: " + roadNo + "\nHouse No: " + houseNo + "\nCity: " + city + "\nCountry: " + country);
         }
 
     }
