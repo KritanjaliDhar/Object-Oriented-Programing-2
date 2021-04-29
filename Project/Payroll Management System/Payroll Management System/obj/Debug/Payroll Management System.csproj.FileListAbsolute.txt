@@ -1,0 +1,26 @@
+C:\teams classes\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+C:\teams classes\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\teams classes\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojAssemblyReference.cache
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.cache
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.CoreCompileInputs.cache
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.EmployeeForm.resources
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.EmployeeForm.resources
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.LogInForm.resources
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.ChangePassword.resources
+C:\Users\USER\Desktop\OOP2\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.GenerateSalary.resources
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.ChangePassword.resources
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.GenerateSalary.resources
+C:\teams classes\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.LogInForm.resources
